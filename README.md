@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuanxun2007
-- 👀 I’m interested in mobile application develop
-- 🌱 I’m currently learning swift/react-native/flutter
+- 👀 I’m interested in mobile develop
+- 🌱 I’m currently learning oc/swift/react-native/flutter
 - 💞️ I’m looking to collaborate on moblie develop
 - 📫 If you have some suggestions, please reach me use my mail: yuanxun2007@163.com
 
